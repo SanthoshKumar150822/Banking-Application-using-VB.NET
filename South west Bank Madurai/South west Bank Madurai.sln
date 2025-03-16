@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "South west Bank Madurai", "South west Bank Madurai.vbproj", "{A13B4546-7C7D-49C5-9539-764AD72F9A07}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "South West Bank Madurai Setup", "..\South West Bank Madurai Setup\South West Bank Madurai Setup.vdproj", "{E38947D4-A373-4679-8477-ED26AC666218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A13B4546-7C7D-49C5-9539-764AD72F9A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13B4546-7C7D-49C5-9539-764AD72F9A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13B4546-7C7D-49C5-9539-764AD72F9A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13B4546-7C7D-49C5-9539-764AD72F9A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E38947D4-A373-4679-8477-ED26AC666218}.Debug|Any CPU.ActiveCfg = Debug
+		{E38947D4-A373-4679-8477-ED26AC666218}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C98CA688-A5F6-4ABE-8B74-81536CCC7398}
+	EndGlobalSection
+EndGlobal
